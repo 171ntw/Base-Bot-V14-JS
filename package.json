@@ -3,8 +3,8 @@
     "description": "Por favor, não tire o author pls!",
     "type": "module",
     "author": {
-        "name": "noahx",
-        "url": "https://github.com/noahwx"
+        "name": "nathan-nt",
+        "url": "https://github.com/171ntw"
     },
     "main": "main.js",
     "dependencies": {
